@@ -20,7 +20,7 @@ Dirasakan (Skala MMI): II-III Kab. Jayapura
 def exstrasi_data(): #data akan disimpan pada reprpsitory pypi
     hasil = dict()
     hasil['tanggal'] = '27 November 2024 '
-    hasil['waktu'] = '18:59:36 WIBB'
+    hasil['waktu'] = '18:59:36 WIB'
     hasil['magnitudo'] = '2.6'
     hasil['kedalaman'] = '10 km'
     hasil['lokasi'] = {'ls' : 2.50, 'bt' : 140.55 }
